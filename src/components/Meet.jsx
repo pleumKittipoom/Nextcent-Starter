@@ -29,7 +29,7 @@ function Meet() {
                     <li><img src={clientImgLogo04} alt="" /></li>
                     <li><img src={clientImgLogo05} alt="" /></li>
                     <li><img src={clientImgLogo06} alt="" /></li>
-                    <li><a href="#" className='text-[#4CAF4F] flex items-center font-bold'>Meet all customers <HiOutlineArrowNarrowRight className='ml-1' /></a></li>
+                    <li><a href="#" className='inline-flex text-[#4CAF4F] items-center font-bold transition-transform duration-300 hover:translate-x-2'>Meet all customers <HiOutlineArrowNarrowRight className='ml-1' /></a></li>
                 </ul>
             </div>
         </div>

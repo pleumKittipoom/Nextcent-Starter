@@ -20,17 +20,17 @@ function Navbar() {
             </div>
 
             <ul className={`${!toggle ? 'hidden' : 'flex' } flex flex-col my-5 md:flex md:flex-row`} >
-                <li className='my-2 md:mx-4'><a href="#">Home</a></li>
-                <li className='my-2 md:mx-4'><a href="#">Service</a></li>
-                <li className='my-2 md:mx-4'><a href="#">Feature</a></li>
-                <li className='my-2 md:mx-4'><a href="#">Product</a></li>
-                <li className='my-2 md:mx-4'><a href="#">Testimonial</a></li>
-                <li className='my-2 md:mx-4'><a href="#">FAQ</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">Home</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">Service</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">Feature</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">Product</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">Testimonial</a></li>
+                <li className='my-2 md:mx-4 hover:underline'><a href="#">FAQ</a></li>
             </ul>
 
             <ul className={`${!toggle ? 'hidden' : 'flex' } flex flex-col my-5 md:flex md:flex-row`} >
-                <li className='my-2 md:mx-4'><a className='inline-flex justify-center items-center py-2 px-4 text-[#4CAF4F]' href="#">Login</a></li>
-                <li className='my-2 md:mx-4'><a className='inline-flex justify-center items-center py-2 px-4 bg-[#4CAF4F] text-white rounded-md' href="#">Sing up</a></li>
+                <li className='my-2 md:mx-4'><a className='inline-flex justify-center items-center py-2 px-4 text-[#4CAF4F] rounded-md hover:text-[#228B22] hover:bg-[#DCDCDC]' href="#">Login</a></li>
+                <li className='my-2 md:mx-4'><a className='inline-flex justify-center items-center py-2 px-4 bg-[#4CAF4F] text-white rounded-md hover:bg-[#009900]' href="#">Sing up</a></li>
             </ul>
 
             {/* Hamburger Icon */}

@@ -13,7 +13,7 @@ function Pixelgrade() {
                     <p className='text-[#717171] my-5'>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.
                     </p>
-                    <a className='inline-flex justify-center items-center py-3 px-8 mt-5 bg-[#4CAF4F] text-white rounded-md' href="#">Learn More</a>
+                    <a className='inline-flex justify-center items-center py-3 px-8 mt-5 bg-[#4CAF4F] text-white rounded-md hover:bg-[#009900]' href="#">Learn More</a>
                 </div>
             </div>
         </div>

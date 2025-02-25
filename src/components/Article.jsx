@@ -20,7 +20,7 @@ function Article() {
 
                         <div className='absolute bg-[#F5F7FA] bottom-[-50px] left-[50%] translate-x-[-50%] w-full max-w-[350px] p-5 shadow-lg rounded-xl'>
                             <p className='font-bold text-[1.25rem] text-[#717171] mb-5'>Creating Streamlined Safeguarding Processes with OneRen</p>
-                            <a href="#" className='flex justify-center items-center text-[#4CAF4F] font-bold'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
+                            <a href="#" className='inline-flex justify-center items-center text-[#4CAF4F] font-bold transition-transform duration-300 hover:translate-x-2'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ function Article() {
 
                         <div className='absolute bg-[#F5F7FA] bottom-[-50px] left-[50%] translate-x-[-50%] w-full max-w-[350px] p-5 shadow-lg rounded-xl'>
                             <p className='font-bold text-[1.25rem] text-[#717171] mb-5'>What are your safeguarding responsibilities and how can you manage them?</p>
-                            <a href="#" className='flex justify-center items-center text-[#4CAF4F] font-bold'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
+                            <a href="#" className='inline-flex justify-center items-center text-[#4CAF4F] font-bold transition-transform duration-300 hover:translate-x-2'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@ function Article() {
 
                         <div className='absolute bg-[#F5F7FA] bottom-[-50px] left-[50%] translate-x-[-50%] w-full max-w-[350px] p-5 shadow-lg rounded-xl'>
                             <p className='font-bold text-[1.25rem] text-[#717171] mb-5'>Revamping the Membership Model with Triathlon Australia</p>
-                            <a href="#" className='flex justify-center items-center text-[#4CAF4F] font-bold'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
+                            <a href="#" className='inline-flex justify-center items-center text-[#4CAF4F] font-bold transition-transform duration-300 hover:translate-x-2'>Readmore <HiOutlineArrowNarrowRight className='ml-2' /></a>
                         </div>
                     </div>
                 </div>

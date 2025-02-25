@@ -14,10 +14,10 @@ function Footer() {
                             All rights reserved
                         </p>
                         <ul className='flex mb-5 md:flex-row'>
-                            <li className='mr-[1rem]'><a className='text-white text-[1.5rem]' href="#"><FaInstagram /></a></li>
-                            <li className='mr-[1rem]'><a className='text-white text-[1.5rem]' href="#"><FaDribbble /></a></li>
-                            <li className='mr-[1rem]'><a className='text-white text-[1.5rem]' href="#"><FaTwitter /></a></li>
-                            <li className='mr-[1rem]'><a className='text-white text-[1.5rem]' href="#"><FaYoutube /></a></li>
+                            <li className='mr-[1rem]'><a className='inline-block text-white text-[1.5rem] transition-transform duration-300 hover:-translate-y-2' href="#"><FaInstagram /></a></li>
+                            <li className='mr-[1rem]'><a className='inline-block text-white text-[1.5rem] transition-transform duration-300 hover:-translate-y-2' href="#"><FaDribbble /></a></li>
+                            <li className='mr-[1rem]'><a className='inline-block text-white text-[1.5rem] transition-transform duration-300 hover:-translate-y-2' href="#"><FaTwitter /></a></li>
+                            <li className='mr-[1rem]'><a className='inline-block text-white text-[1.5rem] transition-transform duration-300 hover:-translate-y-2' href="#"><FaYoutube /></a></li>
                         </ul>
                     </div>
 
@@ -25,22 +25,22 @@ function Footer() {
                         <div>
                             <h4 className='text-[1.25rem] text-white font-semibold'>Company</h4>
                             <ul className='flex flex-col mb-5'>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">About us</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Blog</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Contact us</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Pricing</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Testimonials</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">About us</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Blog</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Contact us</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Pricing</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Testimonials</a></li>
                             </ul>
                         </div>
 
                         <div>
                             <h4 className='text-[1.25rem] text-white font-semibold'>Support</h4>
                             <ul className='flex flex-col mb-5'>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Help center</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Terms of service</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Legal</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Privacy policy</a></li>
-                                <li className='mt-2'><a className='text-white text-[0.875rem]' href="#">Status</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Help center</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Terms of service</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Legal</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Privacy policy</a></li>
+                                <li className='mt-2'><a className='text-white text-[0.875rem] hover:underline' href="#">Status</a></li>
                             </ul>
                         </div>
 
